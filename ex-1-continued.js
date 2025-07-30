@@ -21,4 +21,4 @@ let newStudentProfile = {
   },
 };
 
-console.log(newStudentProfile);
+console.log(newStudentProfile); 
